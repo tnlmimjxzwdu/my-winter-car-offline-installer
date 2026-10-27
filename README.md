@@ -26,10 +26,6 @@
 
 </div>
 
-<div align="center">
-<img width="460" height="215" alt="My Winter Car" src="https://raw.githubusercontent.com/tnlmimjxzwdu/my-winter-car-offline-installer/main/game.jpg" />
-</div>
-
 ---
 
 ## 📖 About My Winter Car
